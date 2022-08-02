@@ -1,2 +1,2 @@
 # Python-Practice 
-Documenting what I have learned from the projects at [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+Documenting my solutions to the practice projects at [Automate the Boring Stuff](https://automatetheboringstuff.com/)
